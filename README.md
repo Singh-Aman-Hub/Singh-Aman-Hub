@@ -9,7 +9,7 @@
 📫 How to reach me: **amansingh102006@gamil.com**  
 
 
-Some Key projects so far:
+## Key Projects so far:
 <ul>
 <li>WebPage Generator-Gemini integrated:<a href="https://github.com/Singh-Aman-Hub/WebPageGenerator-Gemini"> GitHub Repo </a>     ||   <a href="https://webpagegenerator-f.onrender.com/"> Project Demo </a> </li>
 <li>Online restaurant Foodie-Hoddie Full stack project: <a href="https://github.com/Singh-Aman-Hub/Hoodie-Foodie-MERN"> GitHub Repo </a>   ||    <a href="https://webpagegenerator-f.onrender.com/"> Project Demo</a> </li>
@@ -26,7 +26,7 @@ Some Key projects so far:
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
@@ -41,7 +41,7 @@ Some Key projects so far:
 
 ---
 
-## 🌟 Achievements & Activities
+##  Achievements & Activities
 - 🔥 Participating in **Hackathons**
 - 🧠 Exploring **Python modules** & Data Science tools
 - 📖 Currently practicing **Graphs & Trees in C++**
@@ -49,7 +49,7 @@ Some Key projects so far:
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/aman-singh-7437b832a/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
