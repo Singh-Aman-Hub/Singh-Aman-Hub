@@ -12,7 +12,7 @@
 ## Key Projects so far:
 <ul>
 <li>WebPage Generator-Gemini integrated:<a href="https://github.com/Singh-Aman-Hub/WebPageGenerator-Gemini"> GitHub Repo </a>     ||   <a href="https://webpagegenerator-f.onrender.com/"> Project Demo </a> </li>
-<li>Online restaurant Foodie-Hoddie Full stack project: <a href="https://github.com/Singh-Aman-Hub/Hoodie-Foodie-MERN"> GitHub Repo </a>   ||    <a href="https://webpagegenerator-f.onrender.com/"> Project Demo</a> </li>
+<li>Online restaurant Foodie-Hoddie Full stack project: <a href="https://github.com/Singh-Aman-Hub/Hoodie-Foodie-MERN"> GitHub Repo </a>   ||    <a href="https://foodie-frontend-v05k.onrender.com/"> Project Demo</a> </li>
   
 <li>Machine Learning Models: 
   <ul>
