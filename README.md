@@ -3,16 +3,24 @@
 
 ---
 
-🌱 I’m currently learning **MERN Stack Development** and **Machine Learning**  
-👨‍💻 All of my projects are available at [My GitHub](https://github.com/YOUR-USERNAME)  
-💬 Ask me about **Backend Development, MERN Projects, Python Modules, or C++ DSA**  
-📫 How to reach me: **amansingh102006@gamil.com**  
-
+I’m currently learning **MERN Stack Development** and **Machine Learning**  
+All of my projects are available at [My GitHub](https://github.com/YOUR-USERNAME)  
+Ask me about **Backend Development, MERN Projects, Python Modules, or C++ DSA**  
+<p>How to reach me:</p>
+<ul>
+  <li>
+    <a href="mailto:Amansingh102006@gmail.com">Email me</a> — Amansingh102006@gmail.com
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/aman-singh-7437b832a/" target="_blank">LinkedIn Profile</a> — Aman Singh
+  </li>
+</ul>
 
 ## Key Projects so far:
 <ul>
+<li>EduBridge Platform - MERN Stack Project with AI powered profile match feature:<a href="https://github.com/Singh-Aman-Hub/EduBridge_Platform"> GitHub Repo </a>     ||   <a href="https://edubridge-q25a.onrender.com/"> Project Demo </a> </li>
 <li>WebPage Generator-Gemini integrated:<a href="https://github.com/Singh-Aman-Hub/WebPageGenerator-Gemini"> GitHub Repo </a>     ||   <a href="https://webpagegenerator-f.onrender.com/"> Project Demo </a> </li>
-<li>Online restaurant Foodie-Hoddie Full stack project: <a href="https://github.com/Singh-Aman-Hub/Hoodie-Foodie-MERN"> GitHub Repo </a>   ||    <a href="https://foodie-frontend-v05k.onrender.com/"> Project Demo</a> </li>
+<li>Online restaurant Foodie-Hoddie Full stack Project: <a href="https://github.com/Singh-Aman-Hub/Hoodie-Foodie-MERN"> GitHub Repo </a>   ||    <a href="https://foodie-frontend-v05k.onrender.com/"> Project Demo</a> </li>
   
 <li>Machine Learning Models: 
   <ul>
