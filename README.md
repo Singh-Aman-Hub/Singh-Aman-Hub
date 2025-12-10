@@ -4,7 +4,7 @@
 ---
 
 I’m currently learning **MERN Stack Development** and **Machine Learning**  
-All of my projects are available at [My GitHub](https://github.com/YOUR-USERNAME)  
+All of my projects are available at [My GitHub](https://github.com/Singh-Aman-Hub?tab=repositories)  
 Ask me about **Backend Development, MERN Projects, Python Modules, or C++ DSA**  
 <p>How to reach me:</p>
 <ul>
