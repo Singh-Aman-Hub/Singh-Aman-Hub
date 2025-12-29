@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Aman Singh</h1>
+
 <h3 align="center">A passionate Full Stack Developer, ML enthusiast and Hackathon lover</h3>
+<h2>➡️ Visit my website here to know more about me  <a href="https://portfolio-aman-dw1f.onrender.com" target="_blank">Portfolio | Aman Singh</a> </h2>
 
 ---
 
@@ -55,18 +57,9 @@ Ask me about **Backend Development, MERN Projects, Python Modules, or C++ DSA**
 - 📖 Currently practicing **Graphs & Trees in C++**
 - 💻 Building projects with **MERN stack** and **ML models**
 
----
 
-## Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/aman-singh-7437b832a/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <span>.   .  .   .   .    .   .    .   .     .    .    .   . </span>
-  <a href="mailto:your.email@example.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>
-</p>
+
+
 
 ---
 
